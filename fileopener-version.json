@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/gauravdev95/My-notes-repo/main/fileopener.apk","notes":"Fit fixes: PDF pages now fit the full screen on open (pinch to zoom still works), PPTX slides scale to phone width, DOCX images and tables fit the screen.","versionCode":4,"versionName":"1.3"}
+{"apkUrl":"https://raw.githubusercontent.com/gauravdev95/My-notes-repo/main/fileopener.apk","notes":"PDF readability fix: pages now render on a white background so black text stays readable on dark-theme phones.","versionCode":5,"versionName":"1.4"}
