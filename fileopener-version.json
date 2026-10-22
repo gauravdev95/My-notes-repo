@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/gauravdev95/My-notes-repo/main/fileopener.apk","notes":"Screen-fit fix: PPTX slides now scale to full phone width, DOCX images and tables fit the screen.","versionCode":3,"versionName":"1.2"}
+{"apkUrl":"https://raw.githubusercontent.com/gauravdev95/My-notes-repo/main/fileopener.apk","notes":"Fit fixes: PDF pages now fit the full screen on open (pinch to zoom still works), PPTX slides scale to phone width, DOCX images and tables fit the screen.","versionCode":4,"versionName":"1.3"}
