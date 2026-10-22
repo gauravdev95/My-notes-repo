@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/gauravdev95/My-notes-repo/main/fileopener.apk","notes":"PDF readability fix: pages now render on a white background so black text stays readable on dark-theme phones.","versionCode":5,"versionName":"1.4"}
+{"apkUrl":"https://raw.githubusercontent.com/gauravdev95/My-notes-repo/main/fileopener.apk","notes":"Excel readability fix: sheets now shrink to fit only while text stays readable; very wide sheets stay at readable size and scroll sideways like Google Sheets.","versionCode":6,"versionName":"1.5"}
